@@ -1,0 +1,22 @@
+[project]
+name = "explore-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "MuhammadHamzaSheikh6", email = "m.hamzashaikh6067@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "openai>=1.82.0",
+    "openai-agents>=0.0.16",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+explore-uv = "explore_uv:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
