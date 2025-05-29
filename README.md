@@ -86,8 +86,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the project's style and includes appropriate tests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - **Governor House IT Course**: For providing the foundation and guidance for this project.
